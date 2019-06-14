@@ -1,3 +1,26 @@
+requirements:
+pytest
+    how to install? 
+    pip3 install pytest
+python 3+
+
+
+naudojimasis
+
+unix:
+    python3 search.py wiki_lt.txt lietuva
+
+    su savo skaičiumi išvedamų rezultatų
+        python3 search.py wiki_lt.txt lietuva --number_of_words 6
+
+windows:
+    python search.py wiki_lt.txt lietuva --number_of_words 6
+
+    su savo skaičiumi išvedamų rezultatų
+        python search.py wiki_lt.txt lietuva --number_of_words 6
+
+
+TASK
 # Word Search
 
 Implement a CLI tool that finds top 5 matched words from a given text file.
