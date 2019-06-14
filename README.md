@@ -2,6 +2,8 @@ requirements:
 pytest
     how to install? 
     pip3 install pytest
+        or
+    pip3 install -r requirements.txt
 python 3+
 
 
